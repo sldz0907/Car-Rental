@@ -10,7 +10,11 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
 Hướng Dẫn Cài Đặt & Chạy Dự Án
+
 Hướng dẫn này cung cấp các bước cần thiết để thiết lập và chạy dự án cục bộ.
 
 👉 Lưu ý quan trọng: Hãy chạy Server trước, sau đó mới đến Client.
